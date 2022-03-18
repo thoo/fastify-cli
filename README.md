@@ -296,7 +296,7 @@ Finally, there will be a new `README.md` file, which provides internal informati
 * Exposed decorators
 * Encapsulation semantics
 * Compatible Fastify version
-
+## Testing 
 ### linting
 
 `fastify-cli` is unopinionated on the choice of linter. We recommend you to add a linter, like so:
